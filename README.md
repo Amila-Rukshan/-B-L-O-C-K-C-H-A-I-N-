@@ -11,4 +11,3 @@ There is a API to interact with our block chain fro internet and it is the main 
 data is legitimate and always synchronized. It also has a simple front-end to explore the data in our blockchain.
 
 
-
